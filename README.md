@@ -77,8 +77,6 @@ El endpoint de creación de usuarios recibe los siguientes campos en formato JSO
 
 La API responde con el código de estado HTTP adecuado. En caso de éxito, devuelve el usuario creado con los siguientes campos adicionales:
 
-
-Here's why:
 * id: ID del usuario. 
 * created: Fecha de creación del usuario.
 * modified: Fecha de la última actualización del usuario. 
